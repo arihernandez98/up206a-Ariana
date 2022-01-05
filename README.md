@@ -12,7 +12,7 @@ While there are no prerequisites for taking this course, people who are approach
 
 ### Project Ideas
 * Mapping Septic Systems in California  *(this is honestly not possible given the lack of data but we can dream)*
-* Mapping projects funded by the Outdoor Recreation Legacy Partnership program
+* Mapping projects funded by the [Outdoor Recreation Legacy Partnership program](https://lwcfcoalition.org/orlp)
   * Looking at park equity data for my capstone
   
 ### Objectives 
