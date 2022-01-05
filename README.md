@@ -11,10 +11,9 @@ In addition to the programming lab sessions, you will be given weekly or bi-week
 While there are no prerequisites for taking this course, people who are approaching programming for the first time will admittedly find the course to be intense and challenging.
 
 ### Project Ideas
-1. Mapping Septic Systems in California  (this is honestly not possible given the lack of data but we can dream)
-2. Mapping projects funded by the Outdoor Recreation Legacy Partnership program
-  a. For my capstone project. 
-  b. Looking at if this federal program is accomplishing it's intended goals of decreasing park poverty in underserved communities. Currently collecting Lat/Lon  coordinates of funded projects to compare with Census data. 
+* Mapping Septic Systems in California  *(this is honestly not possible given the lack of data but we can dream)*
+* Mapping projects funded by the Outdoor Recreation Legacy Partnership program
+  * Looking at park equity data for my capstone
   
 ### Objectives 
-I want to be able to think through spatial analysis. I've used ArcGIS before but feel like I just go through the motions of creating maps and don't truly know the mechanics behind it. Hopefully for this course, I increase my GIS skills and can use what I learn through the course in my capstone and then career. I also would like to feel confident in using Python. 
+I want to be able to think through spatial analysis. I've used ArcGIS before but feel like I just go through the motions of creating maps and don't truly know the mechanics behind it. Hopefully for this course, I increase my GIS skills and can use what I learn through the course in my capstone and then career. I also would like to feel confident in using Python.
